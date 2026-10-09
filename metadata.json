@@ -1,0 +1,6 @@
+{
+  "name": "SolBounties — Web3 микро-задачи и Proof of Code",
+  "description": "Децентрализованная платформа микро-задач для разработчиков и Web3-стартапов с заморозкой выплат в Solana Escrow и верифицированным ончейн-портфолио Proof of Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
